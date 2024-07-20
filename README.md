@@ -1,6 +1,6 @@
 # Currency Converter in React
 
-# Deployed Link - https://bolotzhusupekov07.github.io/currency-converter/
+### Deployed Link - https://bolotzhusupekov07.github.io/currency-converter/
 
 ## Screenshots
 ![alt text](<screenshots/usd-to-eur.png>)
