@@ -1,3 +1,13 @@
+# Currency Converter in React
+
+## Screenshots
+![alt text](<screenshots/usd-to-eur.png>)
+![alt text](<screenshots/usd-to-nan.png>)
+![alt text](<screenshots/usd-to-shoro.png>)
+![alt text](<screenshots/eur-to-nan.png>)
+![alt text](<screenshots/eur-to-toibos.png>)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
